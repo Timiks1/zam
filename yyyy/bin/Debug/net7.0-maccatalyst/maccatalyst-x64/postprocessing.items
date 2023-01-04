@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="yyyy.app/Contents/MacOS/yyyy">
+      <BCSymbolMapName>yyyy.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>yyyy.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/tim/Projects/yyyy/yyyy/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>yyyy.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/tim/Projects/yyyy/yyyy</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
